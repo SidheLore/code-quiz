@@ -1,0 +1,19 @@
+body {
+    background-image: repeating-radial-gradient(#fceabb, #f8b500);
+}
+
+.btn {
+    font-size: 25 px;
+    text-align: center;
+    padding: 8px;
+    margin: 8px;
+}
+
+.btn:hover {
+    box-shadow: 0 3px 2px 0;
+    cursor: pointer;
+}
+
+footer {
+    font-size: 15px;
+}
